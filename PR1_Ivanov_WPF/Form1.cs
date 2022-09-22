@@ -19,7 +19,12 @@ namespace PR1_Ivanov_WPF
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            button1.Text = "hello!";
+            
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            //ddfjhjgjkjkd
         }
     }
 }
